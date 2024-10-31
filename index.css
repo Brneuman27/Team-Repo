@@ -1,0 +1,14 @@
+* {
+    background:#ddbcbb;
+    color:#5f005f;  
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow:
+        0.001em 0.01em 0 #000000,
+        -0.01em 0.01em 0 #000000,
+        -0.01em -0.01em 0 #000000,
+        0.01em -0.01em 0 #000000;
+}
+
+h2 {
+    text-shadow: #ff00ff;
+}
