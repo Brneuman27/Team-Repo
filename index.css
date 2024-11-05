@@ -22,8 +22,19 @@ body {
 
 .navbank {
     background:#efffff;
-    
+    padding:10px;
+
     display:flex;
     flex-flow:column;
     align-items:center;
+}
+
+.source {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+#works-cited-fish {
+    width:500px;
 }
