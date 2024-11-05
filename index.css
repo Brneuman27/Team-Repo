@@ -1,17 +1,29 @@
-* {
+body {
     background:#cceeef;
+}
+
+* {
+
     color:#303d86;  
     font-family: 'Courier New', Courier, monospace;
     font-weight:1000;
 }
 
 .titlebar{
-    background:white;
+    background:#efffff;
     padding:10px 15px 10px 15px;
     display:flex;
 
 }
 
-.link {
+.navlink {
     padding: 10px;
+}
+
+.navbank {
+    background:#efffff;
+    
+    display:flex;
+    flex-flow:column;
+    align-items:center;
 }
