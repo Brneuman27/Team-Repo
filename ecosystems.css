@@ -1,0 +1,25 @@
+.infobox {
+    margin:40px;
+    padding:10px 40px;
+    border:5px solid #303d86;
+    max-width: 350px;
+    background:#cceeef;
+ 
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:center;
+    
+    transition: transform 0.3s ease-in-out;
+    cursor:pointer;
+}
+
+.infobox:hover {
+    transform:translateY(-15px);
+    filter:drop-shadow(#303d86 0px 15px 5px);
+}
+
+.surround {
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:center;
+}
