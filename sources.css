@@ -7,3 +7,8 @@
 #works-cited-fish {
     width:500px;
 }
+
+a {
+    display:flex;
+    padding: 10px;
+}
